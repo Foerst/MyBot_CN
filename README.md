@@ -31,7 +31,7 @@ ps: 下载链接： http://update.coc.kunlun.com/?channel=XXX,
 
 * 如何编译源码得到可执行文件？
 
-	餐卡 [*https://mybot.run/forums/index.php?/topic/8714-guide-how-to-recompile-the-bot-run-bot-as-script/*](https://mybot.run/forums/index.php?/topic/8714-guide-how-to-recompile-the-bot-run-bot-as-script/)
+	参考 [*https://mybot.run/forums/index.php?/topic/8714-guide-how-to-recompile-the-bot-run-bot-as-script/*](https://mybot.run/forums/index.php?/topic/8714-guide-how-to-recompile-the-bot-run-bot-as-script/)
 
 * 多开教程？
 
